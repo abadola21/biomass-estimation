@@ -48,6 +48,6 @@ To reproduce the analyses:
 
 If you use this dataset or code, please cite:
 
-Badola, A., et al. (2026). *Data and code for: Biomass Estimation Using UAVSAR and Planet Data*. Zenodo. https://doi.org/10.5281/zenodo.18608727
+Badola, A., Panda, S., Ford, E., Juday, G., Maiti, A., & Gens, R. (2026). _abadola21/biomass-estimation: Data and Code for Aboveground Biomass Estimation in Interior Alaska_ (v1.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.18608727
 
 ---
