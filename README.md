@@ -1,5 +1,5 @@
 # Biomass Estimation Using UAVSAR and Planet Data
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18608727.svg)](https://doi.org/10.5281/zenodo.18608727)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18611561.svg)](https://doi.org/10.5281/zenodo.18611561)
 
 ## Overview
 
