@@ -48,6 +48,6 @@ To reproduce the analyses:
 
 If you use this dataset or code, please cite:
 
-Badola, A., Panda, S., Ford, E., Juday, G., Maiti, A., & Gens, R. (2026). _Data and Code for Aboveground Biomass Estimation in Interior Alaska_ (v1.0). Zenodo. https://doi.org/10.5281/zenodo.18611561
+Badola, A., Panda, S.K., Ford, E., Juday, G.P., Maiti, A., & Gens, R. (2026). _Data and Code for Aboveground Biomass Estimation in Interior Alaska_ (v1.0). Zenodo. https://doi.org/10.5281/zenodo.18611561
 
 ---
