@@ -41,6 +41,10 @@ To reproduce the analyses:
 
 - **Code**: Apache License 2.0  
 - **Ground Data**: Creative Commons Attribution 4.0 International (CC-BY 4.0)
+## License
+
+- **Code:** CC0 1.0 — see [LICENSE](LICENSE)  
+- **Data:** CC-BY 4.0 — see [data/LICENSE-DATA.txt](data/LICENSE-DATA.txt)
 
 ---
 
