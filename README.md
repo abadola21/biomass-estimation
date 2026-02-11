@@ -9,11 +9,11 @@ This repository contains the ground data and analysis code supporting the manusc
 
 ## Repository Contents
 
-### 📁 Ground_Data
+### Ground_Data
 - `1_46_plots_Geojson.geojson` — Ground plot locations in GeoJSON format (EPSG:32606)  
 - `All_tree_data_2025.xlsx` — Tree-level measurements and plot attributes
 
-### 📁 Code
+### Code
 - `biomass_estimation.py` — Python scripts for processing data, extracting features, modeling biomass, and generating figures
 
 ---
