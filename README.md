@@ -32,7 +32,7 @@ To reproduce the analyses:
 
 1. Download UAVSAR data from the NASA/JPL archive.  
 2. Acquire PlanetScope imagery through a valid Planet account.  
-3. Use the scripts in `/Code/` to process the data and generate results.  
+3. Use the scripts in biomass_estimation.py to process the data and generate results.  
 4. Follow the workflow documented in the script headers.
 
 ---
